@@ -1,0 +1,1 @@
+7. Access the application at `http://localhost:8000`.

@@ -1,0 +1,1 @@
+4. Set up environment variables (create a `.env` file with the following variables):

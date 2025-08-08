@@ -1,0 +1,4 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12,<3.13
+psycopg2>=2.8,<2.9
+python-dotenv>=0.15,<0.16

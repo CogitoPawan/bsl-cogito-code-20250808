@@ -1,0 +1,1 @@
+Given the complexity and scope of the request, we'll break down the implementation into files and components. This outline includes key files: `settings.py` for configuration, a `models.py` for the database models, `views.py` for the endpoints, `urls.py` for routing, and `tests.py` for unit tests. This code will be structured according to Django conventions.
